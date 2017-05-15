@@ -1,0 +1,176 @@
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll.config
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.pdb
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Antlr3.Runtime.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\EntityFramework.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.Web.Infrastructure.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\System.Web.Optimization.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\System.Web.Providers.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\WebGrease.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\EntityFramework.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.csprojResolveAssemblyReference.cache
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.pdb
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.pdb
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Antlr3.Runtime.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\System.Web.Optimization.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\System.Web.Providers.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\WebGrease.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.dll
+C:\Users\Web App Develop .Net\Desktop\157662\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.pdb
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll.config
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.pdb
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Antlr3.Runtime.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\EntityFramework.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.Web.Infrastructure.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\System.Web.Optimization.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\System.Web.Providers.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\WebGrease.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\EntityFramework.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.csprojResolveAssemblyReference.cache
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.pdb
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.csprojResolveAssemblyReference.cache
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll.config
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.pdb
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Antlr3.Runtime.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\EntityFramework.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.Web.Infrastructure.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\System.Web.Optimization.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\System.Web.Providers.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\WebGrease.dll
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\EntityFramework.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\project\PrjC#-NET\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.pdb
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\itextsharp.dll
+F:\project\PrjC#-NET\BITM\DiagnosticApp\DiagnosticApp\bin\itextsharp.xml
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\itextsharp.dll
+E:\PrjBITM\DiagnosticApp\DiagnosticApp\bin\itextsharp.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.csprojResolveAssemblyReference.cache
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll.config
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DiagnosticApp.pdb
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Antlr3.Runtime.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\EntityFramework.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\itextsharp.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\System.Web.Optimization.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\System.Web.Providers.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\WebGrease.dll
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\itextsharp.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\EntityFramework.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\shimu\Desktop\DiagnosticApp\DiagnosticApp\obj\Debug\DiagnosticApp.pdb
